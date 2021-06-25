@@ -11,3 +11,8 @@ El código está hecho para que imprima healthy o not-healthy como predicción. 
 El archivo "plants_classification.py" es con el que se entreno la red. Sin emabrgo, ese ya no necesitan correrlo, ya que guarde el modelo ya entrenado en el archivo "plants_trainedNN.h5", que es el que se carga en el archivo donde harán la predicción.
 
 El modelo alcanza poco más del **98%** de exactitud (accuracy).
+
+Las imágenes:
+* image_h#
+* image_n#
+son solo muestras que utilice para hacer pruebas. Deben cambiar la variable img_dir con la dirección donde se guardó la imagen que desean introducir.
