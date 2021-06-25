@@ -15,4 +15,5 @@ El modelo alcanza poco más del **98%** de exactitud (accuracy).
 Las imágenes:
 * image_h#
 * image_n#
+
 son solo muestras que utilice para hacer pruebas. Deben cambiar la variable img_dir con la dirección donde se guardó la imagen que desean introducir.
